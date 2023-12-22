@@ -1,0 +1,77 @@
+# 4b NC
+- arrOfObj:
+  - { 1: 2, 3: 4 }
+  - { 1: 2, 3: 4 }
+  objOfLeaves:
+    1: 2
+    3: 4
+    4: [ 1, 2, 3]
+- urls: 
+  - https://doesmysiteneedhttps.com/
+  - https://www.freecodecamp.org/news/free-https-c051ca570324/
+  tags: https
+- urls:
+  - https://letsencrypt.org/getting-started/
+  - https://letsencrypt.org/docs/				
+  - https://letsencrypt.org/docs/client-options/
+  - https://letsencrypt.org/blog/
+  tags: https, Let's Encrypt
+- urls: https://caddyserver.com/
+  tags: https, Caddy (server)
+- urls: https://pages.github.com/
+  tags: hosting, GitHub Pages
+- urls: https://vercel.com/
+  tags: hosting, Vercel
+- urls: https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping
+  tags: ORM
+- urls: # 
+  - https://github.com/redux-orm/redux-orm
+  - https://redux-orm.github.io/redux-orm/api/ORM
+  tags: ORM, Redux, redux-orm
+- urls: https://www.youtube.com/watch?v=apGV9Kg7ics
+  tags: Git, GitHub, Git and GitHub tutorial
+- urls: https://www.howtogeek.com/808593/bash-script-examples/
+  tags: Bash
+- urls: 
+  - https://github.com/all-contributors/all-contributors
+  - https://allcontributors.org/docs/en/specification
+  - https://allcontributors.org/docs/en/emoji-key
+  tags: community, all-contributors
+- urls: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select
+  tags: HTML
+- urls: 
+  - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Memory_Management
+  - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set/Set
+  tags: JS
+- urls:
+  - https://react.dev/reference/react/useRef#usage
+  - https://react.dev/learn/rendering-lists#keeping-list-items-in-order-with-key
+  - https://www.telerik.com/blogs/quick-guide-dropdown-menus-react
+  - https://www.npmjs.com/package/react-dropdown?activeTab=code
+  - https://github.com/JedWatson/react-select
+  tags: React
+- urls:
+  - https://nextjs.org/docs/pages/building-your-application/deploying
+  - https://stackoverflow.com/questions/76478043/next-js-always-fail-at-downloading-fonts-from-google-fonts
+  - https://nextjs.org/docs/pages/api-reference/components/image
+  tags: Nextjs
+- urls:
+  - https://jsdoc.app/
+  - https://jsdoc.app/about-getting-started.html
+  - https://jsdoc.app/tags-type.html
+  - https://github.com/google/closure-compiler/wiki/Types-in-the-Closure-Type-System
+  tags: JSDOC
+- urls: https://www.typescriptlang.org/docs/handbook/intro.html
+  tags: TS
+- urls: https://veilid.com/Launch-Slides-Veilid.pdf
+  tags: Veilid
+- urls: https://tailwindcss.com/docs/responsive-design
+  tags: Tailwind
+- tags: Python, 100 Days of Python tutorial
+  urls: https://replit.com/learn/100-days-of-python
+- urls:
+  - https://docs.python.org/3/tutorial/floatingpoint.html
+  tags: Python
+
+# - urls: 
+#   tags: 
